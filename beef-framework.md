@@ -109,6 +109,3 @@ Fail2ban actif par défaut.
 | SSL            | Certbot     | Crédibilité https    |
 | Sécurité       | UFW/Fail2ban| VPS protégé          |
 | Diffusion lien | Slack/QR/etc| Remplacement des mails|
-
-
-cacaaaaa
