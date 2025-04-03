@@ -21,7 +21,7 @@ Chaque fichier `.md` est une cheat sheet dédiée à un outil ou une commande sp
 
 - Regrouper mes commandes utiles
 - Garder une trace de ce que j'apprends
-- Revenir rapidement sur les bases sans avoir a cherche.
+- Revenir rapidement sur les bases sans avoir à chercher.
 
 ---
 
